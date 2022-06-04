@@ -1,4 +1,4 @@
-#Sololearn's Java Course Loops Chapter Challenge Solved!
+# Sololearn's Java Course Loops Chapter Challenge Solved!
 
 You take a loan from a friend and need to calculate how much you will owe him after 3 months.
 You are going to pay him back 10% of the remaining loan amount each month.
